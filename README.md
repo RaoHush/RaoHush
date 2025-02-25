@@ -1,5 +1,5 @@
 ## Hi there 👋
-####Self Introduction
+### Self Introduction
 * Student from GuangDong University of Technology
 * Recently learning Python
 * Fond of games,magic,cards,badminton and baseball
